@@ -1,0 +1,11 @@
+{
+  "name": "iot-challenge1",
+  "version": "1.0.0",
+  "description": "IoT  micro:bit challenge 1.",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}
