@@ -1,3 +1,7 @@
+# Copyright
+This file and the containing repository are covered by copy right, and are public for reference only.
+
+&copy; 2020 Jordan Hellier All rights reserved
 # Dungeon crawler Game for microbit
 This project is a fully functioning highly detailed Dungeon crawler game made for the Microbit. It's been created in C++ 
 Using Lancaster Universities Microbit runtime. Featuring a random maze generation algorithm, monster fighting system and win state.
